@@ -23,6 +23,5 @@
     </div>
   
   
- ![snake gif](https://github.com/AnajuSant/blob/output/github-contribution-grid-snake.svg)
   
     
