@@ -1,31 +1,31 @@
-### Welcome to my profile! 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
--- Systems analyst 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Julia;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnajuSant&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
--- Software engineering student
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnaJuSant&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
--- Currently support and infrastructure analyst
 
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Ana-Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Ana-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-       <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-</div>
-
-   
-  ----------------------------------------------
-      
-  ### Contact me
-  <div> 
-  <a href="https://discord.gg/4gePcKhT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+ <a href="https://discord.gg/4gePcKhT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/anajusant" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </div>
-  
-  
-  
-    
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+### Deepening studies:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
